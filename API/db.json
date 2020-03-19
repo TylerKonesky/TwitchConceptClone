@@ -1,11 +1,6 @@
 {
   "streams": [
     {
-      "title": "Test",
-      "description": "TestTesT",
-      "id": 1
-    },
-    {
       "title": "I made this stream :) :)",
       "description": "It was made by Tyler",
       "id": 2
